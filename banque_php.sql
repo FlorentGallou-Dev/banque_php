@@ -1,0 +1,6 @@
+DROP DATABASE IF EXISTS banque_php;
+SHOW WARNINGS;
+
+CREATE DATABASE banque_php CHARACTER SET 'utf8';
+
+USE banque_php
