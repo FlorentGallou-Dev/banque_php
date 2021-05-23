@@ -7,4 +7,9 @@
 -----
 ## VERSIONS
 -----
-> 1.Création du projet sous Git, création du fichier de la base "banque_php.sql", création et écriture du fichier README.md, premier commit et push sur GitHub.
+> 1.Création du projet sous Git, création du fichier de la base "banque_php.sql", création et écriture du fichier README.md, premier commit et push sur GitHub,
+> 2.Création de la condition de création de la base de donnée si déjà existante supprimer et recréer,
+> 3.Création de la table User, création de la ligne utilisateur Rubeus Hagrid,
+> 4.Création de la table Account avec clé étrangère venant de User, remplissage de trois comptes différents,
+> 5.Création de la table Movement avec la clé étrangère venant de Account, remplissage de plusieurs lignes de mouvements par compte.
+> 6.Création de la gestion des utilisateurs de la base de donnée.
